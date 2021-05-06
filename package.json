@@ -1,0 +1,26 @@
+{
+  "name": "vite-plugin-svgj",
+  "version": "1.0.0",
+  "description": "Vite plugin to transform SVGs into React components",
+  "main": "lib/index.js",
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "tsc",
+    "prepublish": "npm run build"
+  },
+  "author": "Nir Tamir",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^15.0.2",
+    "prettier": "^2.2.1",
+    "typescript": "^4.2.4",
+    "vite": "^2.2.4"
+  },
+  "peerDependencies": {
+    "vite": "^2.2.4"
+  },
+  "dependencies": {
+    "esbuild-plugin-svgj": "^1.0.3",
+    "svgj": "^1.0.5"
+  }
+}
