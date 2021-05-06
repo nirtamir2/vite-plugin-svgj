@@ -47,13 +47,6 @@ entities@^2.0.0, entities@^2.2.0:
   resolved "https://registry.npmjs.org/entities/-/entities-2.2.0.tgz#098dc90ebb83d8dffa089d55256b351d34c4da55"
   integrity sha512-p92if5Nz619I0w+akJrLZH0MX0Pb5DX39XOwQTtXSdQQOaYH03S1uIQp4mhOZtAXrxq4ViO67YTiLBo2638o9A==
 
-esbuild-plugin-svgj@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.npmjs.org/esbuild-plugin-svgj/-/esbuild-plugin-svgj-1.0.3.tgz#c24f6135230eea3d806ad95f57b21cfdb92096fe"
-  integrity sha512-nYYF+UNpbYlGwLdX2NeKt5gMTLGrctlLjjkUwEsdRrWMSJfDyb81D3gDkm6X/JHRVSD1Zq5HmUpAy6XGXGRSqw==
-  dependencies:
-    svgj latest
-
 esbuild@^0.9.3:
   version "0.9.7"
   resolved "https://registry.npmjs.org/esbuild/-/esbuild-0.9.7.tgz#ea0d639cbe4b88ec25fbed4d6ff00c8d788ef70b"
@@ -142,7 +135,7 @@ source-map@^0.6.1:
   resolved "https://registry.npmjs.org/source-map/-/source-map-0.6.1.tgz#74722af32e9614e9c287a8d0bbde48b5e2f1a263"
   integrity sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==
 
-svgj@^1.0.5, svgj@latest:
+svgj@^1.0.5:
   version "1.0.5"
   resolved "https://registry.npmjs.org/svgj/-/svgj-1.0.5.tgz#7bee1c0e18d6af4b52aa941cf7fd974a94e4f48f"
   integrity sha512-kIhVqOaIAxXPQvDsUpmaTZCcmOJC98Z12uVXPJd1q3j6ulEZ436z/U/R1ghm/1xnlumj834pi1PhktBJQU+g3w==

@@ -20,7 +20,6 @@
     "vite": "^2.2.4"
   },
   "dependencies": {
-    "esbuild-plugin-svgj": "^1.0.3",
     "svgj": "^1.0.5"
   }
 }
